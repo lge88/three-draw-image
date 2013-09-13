@@ -3,6 +3,7 @@
   "repo": "lge88/three-draw-image",
   "description": "three-draw-image",
   "version": "0.0.1",
+  "homepage": "https://github.com/lge88/three-draw-image",
   "keywords": [],
   "dependencies": {
     "lge88/three-build": "*"
